@@ -8,7 +8,7 @@
         "ext-openssl": "*",
         "league/event": "^3.0",
         "league/uri": "^7.0",
-        "lcobucci/jwt": "^5.0",
+        "spotteron/jwt": "dev-5.4.x",
         "psr/http-message": "^2.0",
         "defuse/php-encryption": "^2.4",
         "ext-json": "*",
